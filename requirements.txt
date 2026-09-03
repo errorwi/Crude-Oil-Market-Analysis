@@ -7,3 +7,5 @@ tensorflow
 yfinance
 statsmodels
 jupyter
+requests
+python-dotenv
